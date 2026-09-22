@@ -14,3 +14,4 @@
 .will-reveal{opacity:1}
 @media(max-width:760px){.hero-description,.intro div>p,.care-detail>p,.professional>p,.start-copy p,.visit-note p{font-size:14px}.section-header>p,.team-heading>p:last-child{font-size:13px}.care-detail summary{font-size:12px}.care-tags span{font-size:9px}.footer-bottom{font-size:9px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.will-reveal{opacity:1;transform:none}}
+.brand img{display:block;aspect-ratio:2 / 1;object-fit:contain}
