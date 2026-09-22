@@ -3,6 +3,7 @@
 Atualizado em 22/09/2026. Prévia comercial local concluída e revisada; sem publicação, contato com a clínica ou contratação presumida.
 
 - Prévia em execução: http://localhost:3009.
+- Repositório público: https://github.com/LuqBruno/bemvi-fisioterapia-pilates (branch `main`, commit inicial enviado em 22/09/2026).
 - Pasta exclusiva: BEMVI_Fisioterapia_e_Pilates_Landing_Page.
 - Decisão vigente: identidade derivada da marca oficial, verde oliva/creme/caramelo; logo preservada em versão monocromática; retrato oficial tratado com ImageGen e original preservado; nenhuma pessoa fictícia ou paciente identificável.
 - Conteúdo: fisioterapia, Pilates clínico, profissionais com dados públicos, primeiro contato, rua/número/cidade e WhatsApp da bio.

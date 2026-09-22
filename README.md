@@ -1,6 +1,8 @@
 # BEMVI · Fisioterapia e Pilates
 
-Prévia comercial local, criada em 21/09/2026. Não comprova contratação, aprovação editorial nem autorização de publicação. Nenhuma mensagem foi enviada à clínica.
+Prévia comercial criada em 21/09/2026. Não comprova contratação, aprovação editorial nem autorização comercial dos materiais. Nenhuma mensagem foi enviada à clínica.
+
+Repositório público: https://github.com/LuqBruno/bemvi-fisioterapia-pilates
 
 ## Executar e editar
 
