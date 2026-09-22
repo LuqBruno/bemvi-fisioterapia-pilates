@@ -47,3 +47,5 @@ Não foi localizado site ou sistema próprio de agenda nos links oficiais acess�
 Confirmar horários, telefone numérico, bairro/CEP/complemento, disponibilidade atual da equipe, registro de Luana, autorização de uso da marca/retratos e aprovação dos textos. Solicitar logo vetorial, fotos do espaço sem pacientes e retratos originais em alta resolução. A seção de espaço foi omitida: o material examinado não ofereceu foto limpa e adequada sem pacientes identificáveis. Sem avaliações ou depoimentos, pois não há conjunto validado/autorizado.
 
 Verificações executadas e capturas: consultar STATUS.md.
+
+Publicação GitHub Pages ativada em 22/09/2026.
