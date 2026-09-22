@@ -6,7 +6,7 @@ export function Arrow({ diagonal = false }: { diagonal?: boolean }) {
   return <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true" style={diagonal ? {transform:'rotate(-45deg)'} : undefined}><path d="M4 12h15m-6-6 6 6-6 6" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /></svg>;
 }
 export function Brand() {
-  return <a href="#inicio" className="brand" aria-label="BEMVI Fisioterapia e Pilates — início"><img src="/images/bemvi-logo.webp" width="300" height="100" alt="BEMVI Fisioterapia e Pilates" /></a>;
+  return <a href="#inicio" className="brand" aria-label="BEMVI Fisioterapia e Pilates — início"><img src="images/bemvi-logo.webp" width="300" height="100" alt="BEMVI Fisioterapia e Pilates" /></a>;
 }
 export function Header() {
   const [open, setOpen] = useState(false);
