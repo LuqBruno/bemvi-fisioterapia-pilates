@@ -49,3 +49,5 @@ Confirmar horários, telefone numérico, bairro/CEP/complemento, disponibilidade
 Verificações executadas e capturas: consultar STATUS.md.
 
 Publicação GitHub Pages ativada em 22/09/2026.
+
+Atualização: Luana Cecconi foi removida da prévia por falta de confirmação do vínculo atual com a BEMVI.

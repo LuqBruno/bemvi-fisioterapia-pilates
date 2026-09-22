@@ -27,3 +27,5 @@ Atualizado em 22/09/2026. Prévia comercial local concluída e revisada; sem pub
 Autorização de uso comercial e validação dos textos/retrato tratado; logo vetorial e fotos originais; fotos do ambiente sem pacientes; registro/biografia completa de Luana e confirmação da equipe atual; horários, complemento, bairro e CEP. Telefone numérico: o link oficial resolve para `554896258300`, enquanto o dado preliminar traz `(48) 99625-8300`; confirmar a grafia antes de exibir número ou criar `tel:`. O botão usa o link oficial funcional.
 
 Próxima ação: Bruno revisar a prévia e apresentar a demonstração; obter retorno e materiais da clínica antes de autorizar qualquer publicação.
+
+- 22/09/2026: removida a referência a Luana Cecconi da interface; vínculo não confirmado.
